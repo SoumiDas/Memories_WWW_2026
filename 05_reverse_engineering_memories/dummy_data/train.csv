@@ -1,0 +1,3 @@
+user_id,conversation_id,message_id,file_name,conversation_number,Create Time,User Message,Updated Memory,Content Type,personal_data,rephrased_message,context
+user_1,abcd1,efgh1,0.txt,1,2025-01-01 20:11:17,"""How can I turn off the memory feature in ChatGPT?""",No memory,NA,NA,NA,NA
+user_1,abcd2,efgh2,1.txt,1,2025-01-01 20:33:54,"""Is it possible to use powerful magic without becoming like the people who use the Dark Arts?""",The user's is interested in Dark Arts.,text,NA,NA,NA
