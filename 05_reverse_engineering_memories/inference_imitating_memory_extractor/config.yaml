@@ -1,0 +1,14 @@
+gpu_memory_utilization: 0.6
+implimentation: vllm
+max_model_len: 20000
+max_new_tokens: 50
+model_name: qwen2.5-32b-instruct
+model_path_map: .../util_public/models.json
+open_content: null
+prompt_logprobs: 1
+random_seed: 10
+save_path: .../result/rephrased_queries
+tensor_parallel_size: 8
+test_dataset_name: test
+trust_remote_code: true
+chat_template: .../util_public/chat_templates/qwen2.5.jinja
