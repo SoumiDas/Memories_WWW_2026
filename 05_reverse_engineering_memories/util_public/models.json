@@ -1,0 +1,15 @@
+{
+
+    "qwen2.5-32b-instruct": [
+        "Qwen/Qwen2.5-32B-Instruct",
+        ".../llm_base_model/"
+    ],
+    "gemma-3-27b-it": [
+        "google/gemma-3-27b-it",
+        ".../llm_base_model/"
+    ],
+    "gpt-oss-20b": [
+        "gpt-oss-20b",
+        ".../llm_base_model/"
+    ]
+}
