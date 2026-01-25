@@ -1,0 +1,19 @@
+#this confugure file is used to provide the evaluation configuration
+#test model config
+model_name: llama3-70b-inst
+model_path_map: .../util_public/models.json
+#inference config
+implimentation: vllm
+#model loading parameters
+tensor_parallel_size: 8
+trust_remote_code: True 
+gpu_memory_utilization: 0.8
+max_model_len: 2048
+prompt_logprobs: 0
+#model inference parameters
+batch_size: 
+max_new_tokens: 50
+#chat templates config
+use_chat_templates: True
+chat_templates: .../util_public/inference/chat_templates/llama.jinja
+
