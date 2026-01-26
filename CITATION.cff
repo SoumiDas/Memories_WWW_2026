@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names:  Dash
+    given-names: Abhisek
+  - family-names: Das
+    given-names: Soumi
+  - family-names:  Kirsten
+    given-names: Elisabeth
+  - family-names: Wu
+    given-names: Qinyuan
+  - family-names:  Karnam
+    given-names: Sai Keerthana
+  - family-names: Gummadi
+    given-names: Krishna P.
+  - family-names:  Holz
+    given-names: Thorsten
+  - family-names: Zafar
+    given-names: Muhammad Bilal
+  - family-names: Zannettou
+    given-names: Savvas
+  
+title: "The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18371252
+date-released: 2026-01-26
